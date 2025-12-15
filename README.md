@@ -5,7 +5,7 @@ MVP de Engenharia de Dados | PUC-Rio
 Projeto de Engenharia de Dados com foco na construção de um pipeline analítico a partir de dados operacionais de consultas a acervo cultural, utilizando ambiente Databricks e SQL como base do processamento.
 
 ## Dataset
-Conjunto de dados públicos referente às consultas realizadas a obras do acervo da Fundação Biblioteca Nacional em 2024, disponibilizado no Portal Brasileiro de Dados Abertos [dados.gov.br] (https://dados.gov.br/dados/conjuntos-dados/fbn-obras-consultadas-por-pesquisadores-obras-gerais-manuscritos-e-periodicos), em formato CSV.
+Conjunto de dados públicos referente às consultas realizadas a obras do acervo da Fundação Biblioteca Nacional em 2024, disponibilizado no Portal Brasileiro de Dados Abertos [dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/fbn-obras-consultadas-por-pesquisadores-obras-gerais-manuscritos-e-periodicos), em formato CSV.
 
 ## Objetivo
 Construir um pipeline de dados reprodutível para análise de padrões de uso, tendências temporais e aspectos operacionais relacionados às consultas ao acervo cultural.
