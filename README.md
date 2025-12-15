@@ -36,10 +36,11 @@ Visualização interativa com os principais indicadores analíticos:
 - ### Notebook executável:
 Notebook principal do projeto, contendo a implementação completa do pipeline, análises e documentação técnica:  
 👉 [Abrir notebook executável](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/MVP-teste-oficial.ipynb)
+[teste notebook sem dashboard](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/mvp_eng_dados_consultas_acervo-teste.ipynb)
 
 - ### Notebook HTML renderizado:  
 👉 [Abrir notebook HTML detro de html renderizado](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/html/MVP-teste-renderizado.html)
-
+[teste notebook leitura crítica](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/html/mvp_eng_dados_consultas_acervo-teste.html)
 ## Tecnologias utilizadas:
 Databricks (Free Edition), SQL, Python (Pandas e Matplotlib), Tableau Public, GitHub.
 
