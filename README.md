@@ -45,7 +45,7 @@ https://htmlpreview.github.io/?https://raw.githubusercontent.com/chascaldini/mvp
 
 [Abrir notebook HTML renderizado](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chascaldini/mvp-eng-dados-consultas-acervo/main/MVP-teste-renderizado.html)
 
-[Notebook HTML detro de html/ renderizado](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chascaldini/mvp-eng-dados-consultas-acervo/main/html/MVP-teste-renderizado.html)
+[Notebook HTML detro de html/ renderizado](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chascaldini/mvp-eng-dados-consultas-acervo/main/html/MVP-teste-renderizado.html](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/html/MVP-teste-renderizado.html)
 
 ## Tecnologias utilizadas
 Databricks (Free Edition), SQL, Python (Pandas e Matplotlib), Tableau Public, GitHub.
