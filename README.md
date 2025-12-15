@@ -43,7 +43,7 @@ Notebook principal do projeto, contendo a implementação completa do pipeline, 
 👉 [Abrir notebook HTML detro de html renderizado](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/html/MVP-teste-renderizado.html)
 
 
-[teste notebook leitura crítica](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/html/mvp_eng_dados_consultas_acervo-teste.html)
+[teste notebook leitura crítica](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/html/mvp_eng_dados_consultas_acervo-teste.html)
 
 ## Tecnologias utilizadas:
 Databricks (Free Edition), SQL, Python (Pandas e Matplotlib), Tableau Public, GitHub.
