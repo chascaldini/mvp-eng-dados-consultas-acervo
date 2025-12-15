@@ -6,6 +6,8 @@ Projeto de Engenharia de Dados com foco na construção de um pipeline analític
 
 ## Dataset
 Conjunto de dados públicos referente às consultas realizadas a obras do acervo da Fundação Biblioteca Nacional em 2024, disponibilizado no Portal Brasileiro de Dados Abertos [dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/fbn-obras-consultadas-por-pesquisadores-obras-gerais-manuscritos-e-periodicos), em formato CSV.
+Fonte: [Obras consultadas por pesquisadores - FBN (2024)](https://dados.gov.br/dados/conjuntos-dados/fbn-obras-consultadas-por-pesquisadores-obras-gerais-manuscritos-e-periodicos)
+
 
 ## Objetivo
 Construir um pipeline de dados reprodutível para análise de padrões de uso, tendências temporais e aspectos operacionais relacionados às consultas ao acervo cultural.
@@ -25,6 +27,13 @@ Diagrama simplificado da arquitetura e do fluxo de dados, conforme apresentado n
 - Considerações de governança, ética e LGPD
 
 ## Principais resultados e insights
+## Principais insights
+
+- Predominância de consultas a materiais bibliográficos impressos, com baixa diversificação de suporte.
+- Concentração das consultas em poucas unidades de acervo, indicando assimetria de uso.
+- Picos sazonais associados ao calendário acadêmico.
+- Relação entre condição física das obras e frequência de consulta.
+
 - Identificação de padrões de uso por tipo de material e unidade de acervo
 - Análise de variações temporais e sazonalidade das consultas
 - Relação entre condição física das obras e frequência de uso
