@@ -35,11 +35,12 @@ Visualização interativa com os principais indicadores analíticos:
 👉 Link para o Tableau Public
 
 ## Notebook do projeto
-- Para visualizar o notebook exportado do Databricks em formato HTML, com tabelas, resultados e visualizações renderizadas no navegador:
-[Abrir notebook HTML renderizado](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/MVP-teste-renderizado.html)
 
-- Notebook oficial em formato `.ipynb`
-- ![Sample data após ingestão](./img/4.1.1_extract_upload_sample-data.jpeg)
+- Notebook executável (.ipynb):  
+  https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/mvp_eng_dados_consultas_acervo.ipynb
+
+- Notebook HTML renderizado:  
+  https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/html/mvp_eng_dados_consultas_acervo.html
 
 
 ## Tecnologias utilizadas
