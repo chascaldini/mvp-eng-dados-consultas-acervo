@@ -39,6 +39,8 @@ Visualização interativa com os principais indicadores analíticos:
 [Abrir notebook HTML renderizado](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/MVP-teste-renderizado.html)
 
 - Notebook oficial em formato `.ipynb`
+- ![Sample data após ingestão](./img/4.1.1_extract_upload_sample-data.jpeg)
+
 
 ## Tecnologias utilizadas
 Databricks (Free Edition), SQL, Python (Pandas e Matplotlib), Tableau Public, GitHub.
