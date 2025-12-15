@@ -1,4 +1,4 @@
--- 07_comments_catalogo.sql
+-- 06_comments_catalogo.sql
 -- Comentários técnicos aplicados à tabela consultas_fbn_tratada.
 -- Este arquivo documenta o significado das colunas e métricas derivadas, apoiando governança, entendimento do schema e reprodutibilidade.
 
