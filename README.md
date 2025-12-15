@@ -38,7 +38,7 @@ Visualização interativa com os principais indicadores analíticos:
 
 - ### Notebook executável (ipynb)
 Notebook principal do projeto, contendo a implementação completa do pipeline, análises e documentação técnica:  
-👉 [Abrir notebook executável (.ipynb)](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/MVP-teste.ipynb)
+👉 [Abrir notebook executável (.ipynb)](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/MVP-teste.ipynb](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/MVP-teste-oficial.ipynb)
 
 - ### Notebook HTML renderizado:  
 https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/html/MVP-teste-renderizado.html
