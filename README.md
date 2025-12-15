@@ -5,38 +5,27 @@ MVP de Engenharia de Dados | PUC-Rio
 Projeto de Engenharia de Dados com foco na construção de um pipeline analítico a partir de dados operacionais de consultas a acervo cultural, utilizando ambiente Databricks e SQL como base do processamento.
 
 ## Dataset
-Conjunto de dados públicos referente às consultas realizadas a obras do acervo da Fundação Biblioteca Nacional em 2024, disponibilizado no Portal Brasileiro de Dados Abertos [dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/fbn-obras-consultadas-por-pesquisadores-obras-gerais-manuscritos-e-periodicos), em formato CSV.
-Fonte oficial: [Portal Brasileiro de Dados Abertos – FBN: Obras consultadas por pesquisadores (2024)](https://dados.gov.br/dados/conjuntos-dados/fbn-obras-consultadas-por-pesquisadores-obras-gerais-manuscritos-e-periodicos)
+Conjunto de dados públicos referente às consultas realizadas a obras do acervo da Fundação Biblioteca Nacional em 2024, disponibilizado no Portal Brasileiro de Dados Abertos (dados.gov.br), em formato CSV.
 
 ## Objetivo
 Construir um pipeline de dados reprodutível para análise de padrões de uso, tendências temporais e aspectos operacionais relacionados às consultas ao acervo cultural.
 
 ## Metodologia e pipeline
-Pipeline implementado no modelo ETL (Extract, Transform, Load), com separação lógica de camadas e materialização em tabela analítica no modelo flat table.
+Pipeline implementado no modelo ETL (Extract, Transform, Load), com separação lógica de camadas e materialização dos dados em tabela analítica no modelo flat table.
 
-**Fluxo sintético:**
+**Fluxo sintético:**  
 CSV → tabela bruta → transformações em SQL → tabela tratada → análises e métricas → visualizações e documentação
-
-## Arquitetura e fluxo do projeto
-Diagrama simplificado da arquitetura e do fluxo de dados, conforme apresentado no notebook.
 
 ## Governança e documentação
 - Data Dictionary da tabela tratada
 - Linhagem de dados (data lineage)
 - Considerações de governança, ética e LGPD
 
-## Principais resultados e insights
 ## Principais insights
-
-- Predominância de consultas a materiais bibliográficos impressos, com baixa diversificação de suporte.
-- Concentração das consultas em poucas unidades de acervo, indicando assimetria de uso.
-- Picos sazonais associados ao calendário acadêmico.
-- Relação entre condição física das obras e frequência de consulta.
-
-- Identificação de padrões de uso por tipo de material e unidade de acervo
-- Análise de variações temporais e sazonalidade das consultas
-- Relação entre condição física das obras e frequência de uso
-- Evidências operacionais extraídas a partir de métricas descritivas
+- Predominância de consultas a materiais bibliográficos e documentais, com destaque para livros e documentos fotográficos, indicando concentração de uso em suportes tradicionais do acervo.
+- Assimetria na distribuição das consultas entre unidades de acervo, com maior demanda concentrada em Obras Gerais, Iconografia e Manuscritos.
+- Padrões temporais bem definidos, com sazonalidade mensal e picos de consulta associados a períodos específicos do ano, possivelmente relacionados ao calendário acadêmico e a demandas institucionais.
+- Limitações na análise do estado físico das obras, devido à alta proporção de registros ausentes, embora os dados disponíveis sugiram maior tempo de consulta para itens classificados como deteriorados.
 
 ## Dashboard
 Visualização interativa com os principais indicadores analíticos:
@@ -51,10 +40,10 @@ Notebook principal do projeto, contendo a implementação completa do pipeline, 
 - ### Notebook HTML renderizado:  
 👉 [Abrir notebook HTML detro de html renderizado](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/html/MVP-teste-renderizado.html)
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas:
 Databricks (Free Edition), SQL, Python (Pandas e Matplotlib), Tableau Public, GitHub.
 
-## Como executar
+## Como executar:
 1. Acessar o notebook no Databricks.
 2. Realizar upload do arquivo CSV na pasta `data/`.
 3. Executar as células do pipeline na ordem apresentada.
@@ -66,5 +55,5 @@ O projeto atende aos requisitos propostos, com pipeline funcional, documentaçã
 ## Autora
 Charlyne Scaldini  
 LinkedIn: link  
-Email: contato
+Email: chascaldini@gmail.com
 
