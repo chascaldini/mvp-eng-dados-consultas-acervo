@@ -55,7 +55,7 @@ Databricks (Free Edition), SQL, Python (Pandas e Matplotlib), Tableau Public, Gi
 4. Consultar as análises, visualizações e resultados finais.
 
 ## Autoavaliação
-O projeto atende aos requisitos propostos, com pipeline funcional, documentação completa e foco em clareza, organização e reprodutibilidade, dentro das limitações do ambiente utilizado.
+O projeto foi conduzido em alinhamento com os requisitos propostos, priorizando um pipeline funcional, documentação organizada e condições de reprodutibilidade, dentro das limitações do ambiente utilizado.
 
 ## Autora
 Charlyne Scaldini  
