@@ -36,7 +36,7 @@ Visualização interativa com os principais indicadores analíticos:
 
 ## Notebook do projeto
 - Para visualizar o notebook exportado do Databricks em formato HTML, com tabelas, resultados e visualizações renderizadas no navegador:
-[Abrir notebook HTML renderizado](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chascaldini/mvp-eng-dados-consultas-acervo/main/MVP-teste-renderizado.html)
+[Abrir notebook HTML renderizado](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/MVP-teste-renderizado.html)
 
 - Notebook oficial em formato `.ipynb`
 
