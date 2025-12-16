@@ -28,19 +28,16 @@ Pipeline implementado no modelo ETL (Extract, Transform, Load), com separação 
 - Limitações na análise do estado físico das obras, devido à alta proporção de registros ausentes, embora os dados disponíveis sugiram maior tempo de consulta para itens classificados como deteriorados.
 
 ## Dashboard
-Visualização interativa dos principais indicadores analíticos disponível no Tableau Public:  
-[Acessar dashboard - Uso do acervo FBN (2024)](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Visualização interativa dos principais indicadores analíticos disponível no Tableau Public: [Acessar dashboard - Uso do acervo FBN (2024)](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### Notebook do projeto
+- **Notebook executável (.ipynb)**  
+Arquivo principal do MVP, contendo todo o pipeline ETL, análises, métricas e documentação técnica.  
+[Acessar notebook no GitHub](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/MVP-teste-oficial.ipynb)
 
-## Notebook do projeto
-
-- ### Notebook executável:
-Notebook principal do projeto, contendo a implementação completa do pipeline, análises e documentação técnica:  
-[Abrir notebook executável](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/MVP-teste-oficial.ipynb)  
-
-[teste notebook sem dashboard](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/mvp_eng_dados_consultas_acervo-teste.ipynb)
-
-- ### Notebook HTML renderizado:  
+- **Notebook renderizado (HTML)**  
+Versão estática para leitura completa no navegador, sem necessidade de execução ou acesso ao Databricks.  
+[Visualizar notebook renderizado](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/html/MVP_analise_consultas_acervo_v1.html)
 [Abrir notebook HTML detro de html renderizado](https://chascaldini.github.io/mvp-eng-dados-consultas-acervo/html/MVP_analise_consultas_acervo_v1.html)
 
 ## Tecnologias utilizadas:
