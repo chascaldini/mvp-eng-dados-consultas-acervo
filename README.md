@@ -51,7 +51,9 @@ Databricks (Free Edition), SQL, Python (Pandas e Matplotlib), Tableau Public, Gi
 4. Consultar as análises, visualizações e resultados finais.
 
 ## Autoavaliação
-O projeto foi conduzido em alinhamento com os requisitos propostos, priorizando um pipeline funcional, documentação organizada e condições de reprodutibilidade, dentro das limitações do ambiente utilizado.
+O projeto permitiu consolidar, na prática, os principais conceitos da disciplina de Engenharia de Dados, por meio da construção de um pipeline completo em ambiente Databricks. As decisões técnicas adotadas priorizaram clareza, rastreabilidade e organização do fluxo ETL, respeitando o escopo do MVP e as limitações da Free Edition.
+
+A documentação do notebook e do repositório reflete o processo de aprendizado ao longo do desenvolvimento, com foco na compreensão das etapas de ingestão, transformação, análise e visualização dos dados.
 
 ## Autora
 Charlyne Scaldini  
