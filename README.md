@@ -29,7 +29,7 @@ CSV → tabela bruta → transformações em SQL → tabela tratada → análise
 
 ## Dashboard
 Visualização interativa dos principais indicadores analíticos disponível no Tableau Public:  
-[Acessar dashboard – Uso do acervo FBN (2024)](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Acessar dashboard - Uso do acervo FBN (2024)](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Notebook do projeto
