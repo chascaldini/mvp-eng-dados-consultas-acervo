@@ -1,5 +1,5 @@
 # Análise de consultas a acervo cultural a partir de dados operacionais
-MVP de Engenharia de Dados | PUC-Rio
+MVP de Engenharia de Dados | Pós-Graduação em Data Science & Analytics | PUC-Rio 
 
 ## Visão geral do projeto
 Projeto de Engenharia de Dados com foco na construção de um pipeline analítico a partir de dados operacionais de consultas a acervo cultural, utilizando ambiente Databricks e SQL como base do processamento.
