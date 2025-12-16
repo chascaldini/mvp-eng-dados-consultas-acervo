@@ -28,8 +28,8 @@ CSV → tabela bruta → transformações em SQL → tabela tratada → análise
 - Limitações na análise do estado físico das obras, devido à alta proporção de registros ausentes, embora os dados disponíveis sugiram maior tempo de consulta para itens classificados como deteriorados.
 
 ## Dashboard
-Visualização interativa com os principais indicadores analíticos:
-[Visualizar dashboard no Tableau Public](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Visualização interativa dos principais indicadores analíticos disponível no Tableau Public:  
+[Acessar dashboard – Uso do acervo FBN (2024)](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Notebook do projeto
