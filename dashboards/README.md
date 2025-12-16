@@ -8,6 +8,3 @@ A imagem do dashboard final está disponível na pasta [`img/`](https://github.c
 
 O acesso interativo é disponibilizado por meio do link público do Tableau:
 [Visualizar dashboard no Tableau Public](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-.
