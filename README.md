@@ -28,9 +28,10 @@ Pipeline implementado no modelo ETL (Extract, Transform, Load), com separação 
 - Limitações na análise do estado físico das obras, devido à alta proporção de registros ausentes, embora os dados disponíveis sugiram maior tempo de consulta para itens classificados como deteriorados.
 
 ## Dashboard
-Visualização interativa dos principais indicadores analíticos disponível no Tableau Public: [Acessar dashboard - Uso do acervo FBN (2024)](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Visualização interativa dos principais indicadores analíticos disponível no Tableau Public:  
+[Acessar dashboard - Uso do acervo FBN (2024)](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### Notebook do projeto
+## Notebook do projeto
 - **Notebook executável (.ipynb)**  
 Arquivo principal do MVP, contendo todo o pipeline ETL, análises, métricas e documentação técnica.  
 [Acessar notebook no GitHub](https://github.com/chascaldini/mvp-eng-dados-consultas-acervo/blob/main/MVP-teste-oficial.ipynb)
