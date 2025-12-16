@@ -14,7 +14,7 @@ Construir um pipeline de dados reprodutível para análise de padrões de uso, t
 Pipeline implementado no modelo ETL (Extract, Transform, Load), com separação lógica de camadas e materialização dos dados em tabela analítica no modelo flat table.
 
 **Fluxo sintético:**  
-CSV → tabela bruta → transformações em SQL → tabela tratada → análises e métricas → visualizações e documentação
+`CSV → tabela bruta → transformações em SQL → tabela tratada → análises e métricas → visualizações e documentação`
 
 ## Governança e documentação
 - Data Dictionary da tabela tratada
