@@ -29,7 +29,8 @@ CSV → tabela bruta → transformações em SQL → tabela tratada → análise
 
 ## Dashboard
 Visualização interativa com os principais indicadores analíticos:
-👉 Link para o Tableau Public
+[Visualizar dashboard no Tableau Public](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Notebook do projeto
 
