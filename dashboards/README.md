@@ -7,4 +7,4 @@ O dashboard tem como objetivo sintetizar visualmente os principais resultados an
 - Prints do dashboard estão disponíveis na pasta `img/` como evidência visual.
 - O acesso interativo ao dashboard é feito por meio do link público do Tableau.
 
-Link para o dashboard no Tableau Public: inserir link
+[Link para o dashboard no Tableau Public:](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
