@@ -17,7 +17,7 @@ Pipeline implementado no modelo ETL (Extract, Transform, Load), com separação 
 `CSV → tabela bruta → transformações em SQL → tabela tratada → análises e métricas → visualizações e documentação`
 
 ## Governança e documentação
-- Data Dictionary da tabela tratada
+- Catálogo de Dados (Data dictionary)
 - Linhagem de dados (data lineage)
 - Considerações de governança, ética e LGPD
 
