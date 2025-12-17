@@ -18,7 +18,7 @@ Pipeline implementado no modelo ETL (Extract, Transform, Load), com separação 
 
 ## Governança e documentação
 - Catálogo de dados (Data dictionary)
-- Linhagem de dados (data lineage)
+- Linhagem de dados (Data lineage)
 - Considerações de governança, ética e LGPD
 
 ## Principais insights
