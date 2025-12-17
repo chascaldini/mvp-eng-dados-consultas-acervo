@@ -1,5 +1,5 @@
 # Evidências visuais
-Esta pasta reúne capturas de tela utilizadas como evidência das principais etapas do pipeline do MVP, documentando a execução e os resultados ao longo do processo.
+Esta pasta reúne capturas de tela utilizadas como evidência de algumas etapas do pipeline do MVP, documentando a execução e os resultados ao longo do processo.
 
 As imagens contemplam:
 
