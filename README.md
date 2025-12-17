@@ -56,6 +56,6 @@ A documentação do notebook e do repositório reflete o processo de aprendizado
 
 ## Autora
 Charlyne Scaldini  
-LinkedIn: link  
+[LinkedIn](https://www.linkedin.com/in/charlyne-scaldini-92959a2b2)  
 Email: chascaldini@gmail.com
 
