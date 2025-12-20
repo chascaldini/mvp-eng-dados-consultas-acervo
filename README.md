@@ -16,10 +16,13 @@ Pipeline implementado no modelo ETL (Extract, Transform, Load), com separação 
 **Fluxo sintético:**  
 `CSV → tabela bruta → transformações em SQL → tabela tratada → análises e métricas → visualizações e documentação`
 
+## Catálogo de dados
+
+O projeto inclui um catálogo de dados documentado, estruturado no formato de um data dictionary, com descrição das colunas, tipos, significado analítico e origem das variáveis. O catálogo foi elaborado como parte da etapa de governança e está disponível no notebook principal, na seção **6.1 Catálogo de Dados (Data Dictionary)**.
+
 ## Governança e documentação
-- Catálogo de dados (Data dictionary)
-- Linhagem de dados (Data lineage)
-- Considerações de governança, ética e LGPD
+
+Além do catálogo de dados, o projeto documenta o fluxo ETL, data lineage e considerações de governança, ética e LGPD, garantindo clareza, rastreabilidade e transparência no tratamento dos dados.  
 
 ## Principais insights
 - Predominância de consultas a materiais bibliográficos e documentais, com destaque para livros e documentos fotográficos, indicando concentração de uso em suportes tradicionais do acervo.
